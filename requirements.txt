@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+langchain
+langchain_community
+langchain_core
+langchain_ollama
+faiss-cpu
+pypdf                 
+python-docx          
+unstructured
+python-magic-bin
+langchain-unstructured[local]
+onnx
+onnxruntime
